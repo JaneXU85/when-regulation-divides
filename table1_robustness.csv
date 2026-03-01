@@ -1,0 +1,4 @@
+Network Type,Aggregate Participation (%),Negative Group (%),Positive Group (%)
+Small-world (p=0.1),94.7,87.2,100.0
+Random,96.0,90.4,100.0
+Scale-free (m=2),94.5,86.7,100.0
