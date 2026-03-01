@@ -79,9 +79,8 @@ Copyright (c) 2026 [XU Jie]
 
 📬 Citation & Archiving
 
-DOI: https://doi.org/10.5281/zenodo.xxxxxxx  
- (Replace with your Zenodo DOI after archiving)
-Repository: https://github.com/[your-username]/pension-trust-abm
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18821726.svg)](https://doi.org/10.5281/zenodo.18821726)
+Repository: https://github.com/[XU Jie]/when-regulation-divides
 
 If you use this model in your research, please cite our manuscript:
 
@@ -90,5 +89,6 @@ If you use this model in your research, please cite our manuscript:
 👤 Authors
 
 [XU Jie] – [Shanghai Advanced Institute of Finance (SAIF), Shanghai Jiaotong Uinversity] – Jxu2@saif.sjtu.edu.cn
+
 
 
